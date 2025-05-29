@@ -10,7 +10,7 @@ Proyecto que hace conversion entre diferentes tipos de moneda
 
 ## Cómo Ejecutarlo  
 1. Clona el repositorio:    
-   git clone https://github.com/fersho101/moneda-conversor.git
+   git clone https://github.com/OscAguilar0/conversor-moneda.git
 2. Crea el archivo src/config.properties con tu API Key de [ExchangeRate-API](https://www.exchangerate-api.com/):
 3. 3. Compila y ejecuta.
 
