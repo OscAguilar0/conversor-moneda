@@ -12,9 +12,10 @@ Proyecto que hace conversion entre diferentes tipos de moneda
 1. Clona el repositorio:    
    git clone https://github.com/OscAguilar0/conversor-moneda.git
 2. Crea el archivo src/config.properties con tu API Key de [ExchangeRate-API](https://www.exchangerate-api.com/):
-3. 3. Compila y ejecuta.
 
    API_KEY=[tu_api_key]
+
+3. Compila y ejecuta.
    
 ## Requisitos  
 - Java 8 o superior.  
