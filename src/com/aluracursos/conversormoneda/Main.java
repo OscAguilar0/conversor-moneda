@@ -25,7 +25,7 @@ public class Main {
             switch (opcion) {
                 case 0:
                     salir = true;
-                    System.out.println("¡Hasta luego!");
+                    System.out.println("¡Gracias por su preferencia!");
                     break;
                 case 1:
                     convertirMoneda(sc, monedas, false);
